@@ -1,9 +1,9 @@
 liveoncode
 ==========
 
-A plethora of general purpose code fragments for students and professionals.
+A plethora of general purpose code fragments and useful snippets for students and professionals.
 
-===========================================================================
+=================================================================================================
 
 Well, reliving code is writing the code again and again. But if you wrote 
 the code once, whats the point in writing it again and again, when you can
